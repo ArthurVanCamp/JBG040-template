@@ -17,7 +17,7 @@ Feel free to create new files to explore the data or experiment with other ideas
 
 - To run the whole training/evaluation pipeline: run `main.py`. **As the interpreter, select Python 3.11, as some packages are incompatible with newer Python versions.**
 This script does the following things:
-    - It loads your train and test data. _Make sure its downloaded beforehand!_
+    - It loads your train and test data. _Make sure it's downloaded beforehand!_
     - It initializes the neural network as defined in the `Net.py` file.
     - It initializes the loss functions and optimizers. If you want to change the loss function/optimizer, do it here.
     - It defines the number of training epochs and the batch size.
