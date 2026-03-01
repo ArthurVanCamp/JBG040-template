@@ -1,4 +1,4 @@
-# Data-Challenge-1-template-code
+# Advanced-Data-Challenge-template-code
 This repository contains the template code for the TU/e course JBG040 Advanced Data Challenge.
 Please read this document carefully as it has been filled out with important information.
 
