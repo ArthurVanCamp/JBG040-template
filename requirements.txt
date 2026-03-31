@@ -16,7 +16,7 @@ requests==2.28.1
 six==1.16.0
 torch==2.5.1
 torchsummary==1.5.1
-tqdm==4.64.1
+tqdm==4.66.3
 types-requests==2.28.11.7
 types-setuptools==65.6.0.2
 types-tqdm==4.64.1
