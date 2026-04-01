@@ -2,7 +2,7 @@ charset_normalizer==2.1.1
 certifi==2022.12.7
 colorama==0.4.6
 fonttools==4.55.8
-idna==3.4
+idna==3.7
 kiwisolver==1.4.4
 matplotlib==3.6.2
 mypy==0.991
